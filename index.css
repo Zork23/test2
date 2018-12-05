@@ -1,6 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
 body {
-  background-color: red;
-  margin: 2em;
-  padding: 3em; }
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #777; }
+
+.header {
+  height: 95vh;
+  background-image: linear-gradient(to right bottom, #ff053a, #c2052d), url(images/background.jpg);
+  background-size: cover;
+  background-position: top; }
 
 /*# sourceMappingURL=index.css.map */
